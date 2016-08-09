@@ -1,36 +1,49 @@
 ## Crescenzo D'Alterio
 
 
-I am your standard tech/videogames/science geek who could spend hours just reading about any new technology coming out.
-Working as a Data Analyst, I have realized that the days I enjoyed the most,
-were the ones where something went wrong,
-and I needed to find ways to solve the problems,
-may it be using a new software or writing a simple script using the basic knowledge of programming I had.
-I have therefore decided to join Makers Academy, a highly intensive 16 weeks coding bootcamp, that allowed me to learn so much in such a short period of time, it's still hard to realize.
-My dream would be now to join a team where I can apply all I've learned in a working environment, while still keep learning.
+I am a tech / video games / science geek who could spend hours just reading about new technologies.
+
+Working as a Data Analyst, I realised that the days I enjoyed the most were the ones where something went 'wrong', and I needed to find ways to solve the problems,
+whether that's using new software or writing a simple script using the basic knowledge of programming I had.
+
+I therefore decided to join Makers Academy, a highly intensive 16 weeks coding bootcamp, which has enabled me to learn so much in such a short period of time, it's still hard to believe.
+
+My dream would be now to join a team where I can apply all I've learned in a working environment, whilst still learning.
 
 
 ## Skills
 
 #### Passion driven
 
-The reason I have relocated to London is because eventually I wanted to try and find a job as a developer.
-Things of course are never easy as thought, so it took me two years to finally be in a position in which I could leave my job and
-seriously committing to my passion.  
+The reason I have relocated to London is because eventually I wanted to try and find a job as a developer. It took me two years to be in a position in which I could leave my job and seriously commit to my passion, but I made it!
+
 Doing something you thoroughly enjoy is the quickest way to excellence in my opinion.
+
+
 
 
 
 #### Hungry (or Thirsty?) for knowledge
 
-I genuinely find learning new things, especially if tech related, very exciting.  
-The thing that I definitely took out of my learning experience at Makers is not simply how to write code in Ruby or Javascript, but really how to learn new skills with the least possible guidance, finding differences and similarities with what I already know.  
-I feel now very excited about the chance of testing these new abilities while in a real life scenario.
+I genuinely find learning new things (especially tech related subjects) very exciting.  
+
+The thing that I definitely took out of my learning experience at Makers is not simply how to write code in Ruby or Javascript, but really how to learn new skills with the least possible guidance, finding differences and similarities with what I already know. I now feel very excited about the chance of testing these new abilities in a real life scenario.
 
 
 #### Teaching/Mentoring (?)
 
-There is one particular kind of personal feedback that I have often received either on the job or while studying, and it's regarding my ability to explain things I know, and help other people understand them.  
+I regularly receive personal feedback regarding my ability to explain subjects I know, and how I can help people to understand those subjects. I'm patient and willing to try a variety of approaches to explain different topics.  
+
+
+#### Projects that I'm proud of
+
+| Github Repo       | Name           | Description  |
+| ------------- |:-------------:| -----:|
+| https://github.com/gtormiston/chasing_shadows_api_server     | Chasing Shadows (API Server) | Rails server app to manage the logic of Chasing Shadows |
+| https://github.com/AnnaHollandSmith/chasing_shadows  | Chasing Shadows (Front-end App) |  Geolocation based RPG written in JavaScript and deployed to iOS using Cordova |
+
+
+
 
 
 ## Education
