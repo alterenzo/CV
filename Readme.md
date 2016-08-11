@@ -3,8 +3,8 @@
 
 I am a tech / video games / science geek who could spend hours just reading about new technologies.
 
-Working as a Data Analyst, I realised that the days I enjoyed the most were the ones where something went 'wrong', and I needed to find ways to solve the problems,
-whether that's using new software or writing a simple script using the basic knowledge of programming I had.
+Working as an eDiscovery Data Analyst, I realised that the days I enjoyed the most were the ones where something went 'wrong', and I needed to find ways to solve the problems,
+whether that's using new software, playing around on the SQL database or writing a simple script using the basic knowledge of programming I had.
 
 I therefore decided to join Makers Academy, a highly intensive 16 weeks coding bootcamp, which has enabled me to learn so much in such a short period of time, it's still hard to believe.
 
@@ -16,6 +16,7 @@ My dream would be now to join a team where I can apply all I've learned in a wor
 #### Passion driven
 
 The reason I have relocated to London is because eventually I wanted to try and find a job as a developer. It took me two years to be in a position in which I could leave my job and seriously commit to my passion, but I made it!
+I left my comfort zone and risked everything to follow my passion.
 
 Doing something you thoroughly enjoy is the quickest way to excellence in my opinion.
 
@@ -43,9 +44,6 @@ I regularly receive personal feedback regarding my ability to explain subjects I
 | https://github.com/AnnaHollandSmith/chasing_shadows  | Chasing Shadows (Front-end App) |  Geolocation based RPG written in JavaScript and deployed to iOS using Cordova |
 
 
-
-
-
 ## Education
 
 #### Makers Academy (April 2016 to August 2016)
@@ -59,12 +57,7 @@ I regularly receive personal feedback regarding my ability to explain subjects I
 
 #### Oracle Certified Associate, Java SE 7 Programmer (October 2013)
 
-- Introduction to Java
-
-#### Unfinished degree on Mechanical Engineering (2006 - 2009)
-
-#### Unfinished degree on Computer Science (2011)
-
+#### Mechanical Engineering student (2006 - 2009)
 
 
 ## Experience
@@ -80,3 +73,8 @@ I regularly receive personal feedback regarding my ability to explain subjects I
 **DataNet** (2007 to 2012)  
 **Naples - Italy**  
 *IT Sales Assistant*
+
+## Hobbies
+
+-Videogames
+-Music (especially electronic music)
