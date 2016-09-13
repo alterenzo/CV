@@ -42,6 +42,8 @@ I regularly receive personal feedback regarding my ability to explain subjects I
 | ------------- |:-------------:| -----:|
 | https://github.com/gtormiston/chasing_shadows_api_server     | Chasing Shadows (API Server) | Rails server app to manage the logic of Chasing Shadows |
 | https://github.com/AnnaHollandSmith/chasing_shadows  | Chasing Shadows (Front-end App) |  Geolocation based RPG written in JavaScript and deployed to iOS using Cordova |
+| https://github.com/alterenzo/webhook_catcher | Webhook Catcher | A simple web app designed to receive incoming data from a transactional email API Webhook, store it in a database, and display statistics.|
+| https://github.com/alterenzo/shop | Shop | A Rails app that simulates a simple shop page, with a Cart on which is possible to add products, and apply voucher codes.|
 
 
 ## Education
@@ -52,7 +54,9 @@ I regularly receive personal feedback regarding my ability to explain subjects I
 - Independent learner and problem-solver
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, ReactJS
+- Agile Development
+- Pair Programming
+- Ruby, Rails, Javascript, Node.js
 - Rspec, Jasmine, Mocha
 
 #### Oracle Certified Associate, Java SE 7 Programmer (October 2013)
@@ -66,9 +70,13 @@ I regularly receive personal feedback regarding my ability to explain subjects I
 **London - UK**  
 *Technical Analyst*  
 
-**Iris Data Services** (April 2014 to Mary 2015)  
+**Iris Data Services** (April 2014 to May 2015)  
 **London - UK**  
-*eDiscovery Production Engineer*  
+*eDiscovery Data Analyst*  
+
+**Cash Flow S.r.l** (Dec 2013 to March 2014)  
+**Naples - Italy**  
+*Java Developer - Creation of a simple Java program to calculate interest rates and creating a custom PDF output *  
 
 **DataNet** (2007 to 2012)  
 **Naples - Italy**  
@@ -76,5 +84,6 @@ I regularly receive personal feedback regarding my ability to explain subjects I
 
 ## Hobbies
 
--Videogames
--Music (especially electronic music)
+- Cycling
+- Videogames
+- Music (especially electronic music)
